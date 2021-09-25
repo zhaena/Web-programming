@@ -1,0 +1,48 @@
+.photo img{
+    margin: 50px 0 10px 250px;
+    border-radius: 50%;
+}
+.tbl,tr{
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+    width: 500px;
+}
+.tbl{
+    margin: 100px 100px auto 100px;
+}
+ul.hr {
+    margin: 0;
+    padding: 20px;
+    background-color: #73c2fb;
+}
+ul.hr li {
+    display: inline;
+    margin-right: 50px;
+    margin-left: 50px;
+    border: 0 solid white;
+    padding: 3px;
+    font-size: 30px;
+    color: white;
+    
+}
+
+textarea{
+    width: 600px;
+    display: inline-block;
+    
+}
+.fdbcs{
+    text-align: center;
+    font-size: large;
+    
+}
+.DIV{
+    display: flex;
+
+}
+caption{
+    font-style: initial;
+    font-size: 30px;
+}
+
