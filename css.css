@@ -1,0 +1,439 @@
+*{
+    padding: auto;
+    margin: 0%;
+}
+.home{
+    background-image: url(bc.JPEG);
+    background-color: linear-gradient(127deg, #a759d1 0%, #f5b3d9 91%)center center no-repeat;
+    background-size: 100% 100%;
+    filter: alpha(Opacity=75);
+}
+.header{
+    max-width: 100%;
+    margin-top: 1%;
+    position: fixed;
+    padding: 7px;;
+    margin-left: 23%;
+    margin-right: 10%;
+}
+.nav-item{
+    padding: 0px 8%;
+}
+.navbar-brand{
+    max-width: 10%;
+}
+.navbar{
+    max-width: 100%;
+}
+.lg{
+    width: 100%;
+}
+#w{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: azure;
+    padding-top: 13%;
+
+}
+.welcome h1{
+    text-align: center;
+    color: azure;
+    font-family:'Andada Pro', serif;
+    font-size: 80px;
+}
+.welcome h5{
+    text-align: center;
+    color: azure;
+    font-family:'Andada Pro', serif;
+    font-size: 30px;
+}
+.but{
+    width: 10%;
+    padding: 12px;
+    border-radius: 45%;
+    background-color:rgb(222, 179, 241);
+    font-family: cursive;
+    margin:5% 45%
+}
+.but:hover{
+    background-color:rgb(225, 205, 233);
+}
+.about{
+    background-image: linear-gradient(127deg, #e9b5d3 0%, #fde8e2 91%);
+    margin-top: -5%;
+}
+.home p{
+    font-family: cursive;
+    text-align: center;
+    color: white;
+    font-size: 210%;
+    font-family: 'Ephesis', cursive;
+    padding-bottom: 4%;
+}
+.about p{
+    font-family: cursive;
+    text-align: center;
+    color: rgb(185, 8, 8);
+    font-size: 210%;
+    font-family: 'Ephesis', cursive;
+}
+.about h1{
+    text-align: center;
+    color: #a32746;
+    font-family:'Andada Pro', serif;
+    font-size: 80px;
+    padding-top: 7%;
+    margin-left: 50%;
+}
+.contenta{
+    display: block;
+}
+.video{
+    margin-left: 2%;
+    padding-bottom: 7%;
+}
+.text{
+    text-align: center;
+}
+.text pre{
+    font-family: 'Mukta', sans-serif;
+    font-size: 175%;
+    height: 450px;
+    margin-left: 52%;
+    margin-top: -33%;
+}
+footer {
+    background-image: linear-gradient(127deg, #a759d1 0%, #f5b3d9 91%);
+    margin-top: -2%;
+  }
+  
+  footer .social {
+    overflow: hidden;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  footer .social li {
+    margin: 0px 10px;
+    display: inline-block;
+  }
+  
+  footer .social li a {
+    color: #d3add1;
+     text-align: center;
+    background-color: #fff;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+  }
+  
+  footer .social li a:hover {
+    background-color: #ff589e;
+    color: #fff;
+  }
+  .copyright{
+      text-align: center;
+  }
+  .fot{
+      height: 650px;
+      text-align: center;
+  }
+  .fot h1{
+      text-align: center;
+      padding-top: 5%;
+      color: azure;
+      font-family:'Andada Pro', serif;
+      font-size: 350%;
+    }
+    .time{
+        text-align: center;
+        color: azure;
+        font-size: 150%;
+    }
+/* tips */
+
+.ts{
+    background-image: linear-gradient(127deg, #e9b5d3 0%, #fde8e2 91%);
+ height: 500px;
+}
+.ts h1{
+    text-align: center;
+    color: azure;
+    font-family:'Andada Pro', serif;
+    font-size: 80px;
+    padding-top: 7%;
+}
+.ts h2{
+    text-align: center;
+    margin-top: -5%;
+}
+.pi{
+    text-align: center;
+    color: rgb(156, 41, 60);
+    font-size: 210%;
+    font-family: 'Ephesis', cursive;
+}
+.skincare{
+    background-image: linear-gradient(127deg, #b8f3f0 0%, #fde8e2 91%);
+}
+#demo{
+max-width: 70%;
+height: 28%;
+padding-top: 5%;
+margin-left: 15%;
+padding-left: 15%;
+}
+.rec{
+    margin-left: 40%;
+}
+
+.carousel-caption h3{
+    text-align: center;
+    color: rgb(8, 119, 122);
+}
+.carousel-caption p{
+    text-align: center;
+    color: rgb(8, 119, 122);
+    font-size: 130%;
+}
+.carousel-caption {
+    text-align: center;
+    border: 1px solid black;
+    max-width: 50%;
+    margin-left: -5%;
+    background-color:rgb(202, 223, 236,80%);
+}
+.best{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.ph{
+    width: 80%;
+}
+.skincare pre{
+    font-family: cursive;
+    text-align: center;
+    color: rgb(146, 197, 201);
+    font-size: 210%;
+    font-family: 'Ephesis', cursive;
+    
+    
+}
+.skincare h1{
+    font-size: 400%;
+    padding-top: 7%;
+    color: rgb(19, 74, 78);
+    text-align: center;
+}
+
+#toggle{
+    display: none;
+}
+.routine{
+    display: inline-flex;
+    text-align: center;
+}
+@media(max-width: 1200px){
+.nav-item{
+        padding: 0px 5%;
+}
+.navbar-brand{
+    max-width: 20%;
+}
+.text pre{
+    font-size: 130%;
+}
+.routine{
+    display:block;
+    width: 50%;
+    text-align: center;
+    margin-left: 20%;
+}
+}
+
+
+@media (max-width:1330px) {
+    .text pre{
+        font-size: 140%;
+    }
+    .skincare h1{
+        padding-top: 10%;
+    }
+    .carousel-caption{
+        height: 30%;
+        font-size: 80%;
+    }
+}
+@media(max-width: 1090px){
+    .nav-item{
+            padding: 0px 0%;
+    }
+    .navbar-brand{
+        max-width: 100px;
+    }
+    .carousel-caption{
+        height: 30%;
+        font-size: 70%;
+    }
+    .carousel-caption h3{
+        font-size: 200%;
+    }
+    #w{
+        padding-top: 15%;
+        font-size: 350%;
+    }
+    .text pre{
+        font-size: 110%;
+    }
+}
+@media (max-width:900px) {
+    .about h1{
+        font-size: 80px;
+        padding-top: 7%;
+        margin-left: 5%;
+    }
+    .carousel-caption{
+        height: 30%;
+        font-size: 50%;
+    }
+    .carousel-caption h3{
+        font-size: 160%;
+    }
+    .contenta{
+        display: block;
+    }
+    .video{
+        margin-left: 28%;
+        margin-top: 2%;
+    }
+    .text pre{
+        font-size: 150%;
+        height: 450px;
+        margin-left: 2%;
+        margin-top: 0;
+    }
+    .fot h1{
+        font-size: 250%;
+    }
+    .time{
+        font-size: 120%;
+    }
+    .video{
+        width: 50%;
+    }
+    .ts h1{
+        padding-top: 10%;
+    }
+    .routine{
+        display: block;
+        text-align: center;
+    }
+
+
+
+}
+    
+@media(max-width: 700px) {
+    #w{
+        padding-top: 20%;
+        font-size: 250%;
+    }
+    .carousel-caption{
+        height: 30%;
+        font-size: 40%;
+    }
+    .carousel-caption h3{
+        font-size: 160%;
+        padding-top: -5%;
+    }
+    .skincare h1{
+        font-size: 300%;
+        padding-top: 15%;
+    }
+    .welcome h1{
+        font-size: 400%;
+    }
+    .but{
+        margin-top: 15%;
+        font-size: 90%;
+    }
+    .ts h1{
+        font-size: 350%;
+        padding-top: 15%;
+    }
+    .video{
+        height: 50%;
+    }
+
+}
+@media(max-width: 500px) {
+    #w{
+        padding-top: 20%;
+        font-size: 200%;
+    }
+    
+    .carousel-caption{
+        height: 30%;
+        font-size: 30%;
+    }
+    .carousel-caption h3{
+        font-size: 160%;
+    }
+    .skincare h1{
+        font-size: 250%;
+        padding-top: 20%;
+    }
+    .welcome h1{
+        font-size: 400%;
+    }
+    .but{
+        width: 25%;
+        margin-top: 15%;
+        margin: 10% 37%;
+        font-size: 100%;
+    }
+    .text pre{
+        font-size: 10%;
+    }
+    
+    .fot h1{
+        font-size: 150%;
+    }
+    .time{
+        font-size: 100%;
+    }
+}
+@media (max-width:626px) {
+    .text pre{
+        font-size: 120%;
+    }
+}
+
+.sc{
+    font-size: 150%;
+    font-family: cursive;
+}
+.hhh h1{
+    color: black;
+    margin-top: -5%;
+    margin-bottom: 5%;
+    font-family:'Andada Pro', serif;
+
+}
+.routine-inner{
+
+    border: 10px solid pink;
+
+  }
+
+
+
